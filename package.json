@@ -1,0 +1,21 @@
+{
+  "name": "task_tracker",
+  "version": "1.0.0",
+  "description": "Task Tracker (Backend Project)",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "Task",
+    "Tracker",
+    "Backend"
+  ],
+  "author": "Manish Tamang",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
